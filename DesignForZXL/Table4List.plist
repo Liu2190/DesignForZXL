@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Humans of New York</string>
+		<key>image</key>
+		<string>xinpin1</string>
+		<key>index</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lean In</string>
+		<key>image</key>
+		<string>xinpin3</string>
+		<key>index</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>David Beckhem</string>
+		<key>image</key>
+		<string>xinpin4</string>
+		<key>index</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jane Eyre</string>
+		<key>image</key>
+		<string>xinpin7</string>
+		<key>index</key>
+		<string>7</string>
+	</dict>
+</array>
+</plist>

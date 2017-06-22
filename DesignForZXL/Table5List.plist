@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Does my belly look big in this</string>
+		<key>image</key>
+		<string>xinpin20</string>
+		<key>index</key>
+		<string>20</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Give and Take</string>
+		<key>image</key>
+		<string>xinpin22</string>
+		<key>index</key>
+		<string>22</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lean Look</string>
+		<key>image</key>
+		<string>xinpin21</string>
+		<key>index</key>
+		<string>21</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>How to Study?</string>
+		<key>image</key>
+		<string>xinpin18</string>
+		<key>index</key>
+		<string>18</string>
+	</dict>
+</array>
+</plist>

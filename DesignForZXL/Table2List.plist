@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Lean Systems</string>
+		<key>image</key>
+		<string>xinpin14</string>
+		<key>index</key>
+		<string>14</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lean Innovation</string>
+		<key>image</key>
+		<string>xinpin13</string>
+		<key>index</key>
+		<string>13</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wealth Creation</string>
+		<key>image</key>
+		<string>xinpin9</string>
+		<key>index</key>
+		<string>9</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Illustrated Dictionary</string>
+		<key>image</key>
+		<string>xinpin10</string>
+		<key>index</key>
+		<string>10</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Verbal Advantage</string>
+		<key>image</key>
+		<string>xinpin6</string>
+		<key>index</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Alex Ferguson</string>
+		<key>image</key>
+		<string>xinpin5</string>
+		<key>index</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Carry Yourself Back to Me</string>
+		<key>image</key>
+		<string>xinpin8</string>
+		<key>index</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Kinfolk Table</string>
+		<key>image</key>
+		<string>xinpin2</string>
+		<key>index</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Story of Art</string>
+		<key>image</key>
+		<string>xinpin19</string>
+		<key>index</key>
+		<string>19</string>
+	</dict>
+</array>
+</plist>
